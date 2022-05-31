@@ -1,0 +1,1 @@
+"# IIB-Project-Soft-Gripper"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/sw06045/IIB-Project-Soft-Gripper.gitgit push -u origin main
